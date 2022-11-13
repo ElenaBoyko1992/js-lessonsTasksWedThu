@@ -111,8 +111,34 @@ function factorial(n: number): any {
     }
     return n * factorial(n - 1)
 }
+
+//4.
+
+function printList(list: any) {
+    alert(list.value);
+
+    if (list.next) {
+        printList(list.next)
+    }
+
+}
+
+//5.
+
+function printList2(list: any) {
+
+    if (list.next) {
+        printList2(list.next)
+    }
+    alert(list.value);
+}
+
 // Task 06
 // написать функцию, которая повторяет функционал метода flat массива на всю глубину.
+
+function flat(arr: any) {
+    return arr.toString().split(',')
+}
 
 // just a plug
 export default () => {
