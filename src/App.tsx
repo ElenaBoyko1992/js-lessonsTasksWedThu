@@ -10,14 +10,6 @@ import './App.css';
 // import './lessons/lesson8/lesson8';
 
 function App() {
-
-    function flat(arr: any) {
-        return arr.toString().split(',')
-    }
-
-    console.log(flat([1, 2, [3, 4], 5, [6, 7, [8, 9, [10, 11]]], 12]));
-
-
     return (
         <div className="container">
             {/*<Lesson2 />*/}
