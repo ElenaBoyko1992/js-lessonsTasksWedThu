@@ -6,7 +6,7 @@
 1) Редакс круговорот, useDispatch, useSelector
 2) Замыкание и Рекурсия - done
 3) Работа с простейшими API с помощью axios, Promise
-4) Promise
+4) Promise - done
 5) This, function constructor, Call/Apply/Bind - сделано все кроме Call/Apply/Bind
 6) Class
 7) __Proto__ / Prototype
