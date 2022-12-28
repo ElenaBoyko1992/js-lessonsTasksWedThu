@@ -3,7 +3,7 @@
 
 Темы занятий:
 
-1) Редакс круговорот, useDispatch, useSelector
+1) Редакс круговорот, useDispatch, useSelector - done
 2) Замыкание и Рекурсия - done
 3) Работа с простейшими API с помощью axios, Promise
 4) Promise - done
